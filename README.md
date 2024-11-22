@@ -100,4 +100,4 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
 
 ## Suporte
 
-Para dúvidas ou suporte, entre em contato pelo [link de contato ou e-mail].
+Para dúvidas ou suporte, entre em contato pelos contatos: {biancadurgante, davilemos}.aluno@unipampa.edu.br
