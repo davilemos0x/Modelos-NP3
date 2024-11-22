@@ -1,14 +1,14 @@
 
-# Instruções de uso dos modelos do NP3
+# Instruções de Uso dos Modelos do NP3
 
-Este repositório fornece um conjunto de ferramentas para instalação, configuração, manipulação de dados e execução de modelos baseados em **PostgreSQL**, **PostGIS** e **Python**. 
+Este repositório fornece um conjunto de ferramentas para instalação, configuração, manipulação de dados e execução de modelos baseados em **PostgreSQL**, **PostGIS** e **Python**.
 
 ## Pré-requisitos
 
 Para utilizar os comandos abaixo, certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
 
-- **Ubuntu** (ou outro sistema baseado em Debian)
-- **Python 3** e **pip**
+- **Ubuntu 20.04** (ou outro sistema baseado em Debian)
+- **Python 3.8** ou superior e **pip**
 - Permissão para usar comandos com `sudo`
 
 ---
@@ -39,7 +39,7 @@ Para utilizar os comandos abaixo, certifique-se de ter as seguintes ferramentas 
      \q
      ```
 
-3. **Instale o PostGIS**:
+3. **Instale o PostGIS 3**:
    ```bash
    sudo apt install postgis postgresql-12-postgis-3
    ```
@@ -93,11 +93,27 @@ Para utilizar os comandos abaixo, certifique-se de ter as seguintes ferramentas 
 
 ---
 
+## Modelos Disponíveis
+
+Mais informações detalhadas sobre os modelos podem ser encontradas nos artigos relacionados:
+
+- **Modelo original**: [Acesse aqui](https://dspace.unipampa.edu.br/bitstream/riu/4741/1/DIS%20Leonardo%20Schulte%20%202018.pdf)
+- **Modelo ajustado**: [Acesse aqui](https://dspace.unipampa.edu.br/bitstream/riu/5729/1/Dissertacao_AndersonFischooder__5_.pdf)
+- **Modelo autoajustado com KT**: [Acesse aqui](https://sol.sbc.org.br/index.php/eradrs/article/view/28012/27822)
+- **Modelo ajustado com GRU**: [Acesse aqui](https://periodicos.unipampa.edu.br/index.php/SIEPE/article/view/118296/34683)
+- **Modelo autoajustado com AD**: [Acesse aqui](https://periodicos.unipampa.edu.br/index.php/SIEPE/article/view/118295/34682)
+
+---
+
 ## Resultados Esperados
 
 - Após a execução dos modelos, serão gerados:
   - **Arquivos de log** com informações sobre tempo, acurácia e outros detalhes.
 
+---
+
 ## Suporte
 
-Para dúvidas ou suporte, entre em contato pelos contatos: {biancadurgante, davilemos}.aluno@unipampa.edu.br
+Para dúvidas ou suporte, entre em contato pelos e-mails:
+- **Bianca Durgante**: biancadurgante@unipampa.edu.br
+- **Davi Lemos**: davilemos@unipampa.edu.br
