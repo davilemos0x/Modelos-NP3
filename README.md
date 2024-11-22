@@ -68,7 +68,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
 1. No terminal, navegue até a pasta dos scripts Python de extração de dados.
 2. Execute o script principal:
    ```bash
-   python3 consolidada_dados.py
+   python3 consolida_dados.py
    ```
 3. Para trabalhar com diferentes "potreiros", altere a variável `t.id` no arquivo `selectent.sql`:
    - `1` = p20 infestado
