@@ -16,7 +16,7 @@ Para utilizar os comandos abaixo, certifique-se de ter as seguintes ferramentas 
 ## Guia Passo a Passo
 
 ### Parte 1: Instalação e Configuração do Banco de Dados
-
+- Busque utilizar as versões dos softwares explicitadas neste tutorial.
 1. **Instale o PostgreSQL 12**:
    ```bash
    sudo sh -c 'echo "deb https://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
@@ -115,5 +115,6 @@ Mais informações detalhadas sobre os modelos podem ser encontradas nos artigos
 ## Suporte
 
 Para dúvidas ou suporte, entre em contato pelos e-mails:
-- **Bianca Durgante**: biancadurgante@unipampa.edu.br
-- **Davi Lemos**: davilemos@unipampa.edu.br
+- **Bianca Durgante**: biancadurgante.aluno@unipampa.edu.br
+- **Davi Lemos**: davilemos.aluno@unipampa.edu.br
+- **Leonardo Pinho**: leonardopinho@unipampa.edu.br
