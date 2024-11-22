@@ -1,7 +1,7 @@
 
 # Instruções de uso dos modelos do NP3
 
-Este repositório fornece um conjunto de ferramentas para instalação, configuração, manipulação de dados e execução de modelos baseados em **PostgreSQL**, **PostGIS** e **Python**. Ele foi projetado para facilitar o uso, mesmo por pessoas sem experiência prévia.
+Este repositório fornece um conjunto de ferramentas para instalação, configuração, manipulação de dados e execução de modelos baseados em **PostgreSQL**, **PostGIS** e **Python**. 
 
 ## Pré-requisitos
 
