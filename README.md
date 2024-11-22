@@ -5,7 +5,7 @@ Este repositório fornece um conjunto de ferramentas para instalação, configur
 
 ## Pré-requisitos
 
-Certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
+Para utilizar os comandos abaixo, certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
 
 - **Ubuntu** (ou outro sistema baseado em Debian)
 - **Python 3** e **pip**
