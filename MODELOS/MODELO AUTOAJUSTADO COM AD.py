@@ -1,7 +1,7 @@
 import sys
 
 # Obtém o primeiro argumento da linha de comando
-argumento = sys.argv[1]
+argumento = sys.argv[1] 
 
 # Converte o argumento para um inteiro
 try:
