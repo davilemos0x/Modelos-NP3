@@ -100,8 +100,8 @@ Mais informações detalhadas sobre os modelos podem ser encontradas nos artigos
 - **Modelo original**: [Acesse aqui](https://dspace.unipampa.edu.br/bitstream/riu/4741/1/DIS%20Leonardo%20Schulte%20%202018.pdf)
 - **Modelo ajustado**: [Acesse aqui](https://dspace.unipampa.edu.br/bitstream/riu/5729/1/Dissertacao_AndersonFischooder__5_.pdf)
 - **Modelo autoajustado com KT**: [Acesse aqui](https://sol.sbc.org.br/index.php/eradrs/article/view/28012/27822)
-- **Modelo ajustado com GRU**: [Acesse aqui](https://periodicos.unipampa.edu.br/index.php/SIEPE/article/view/118296/34683)
-- **Modelo autoajustado com AD**: [Acesse aqui](https://periodicos.unipampa.edu.br/index.php/SIEPE/article/view/118295/34682)
+- **Modelo ajustado com GRU**: [Acesse aqui](https://ei.unipampa.edu.br/uploads/evt/arq_trabalhos/29643/etp1_resumo_expandido_29643.pdf)
+- **Modelo autoajustado com AD**: [Acesse aqui](https://ei.unipampa.edu.br/uploads/evt/arq_trabalhos/29635/etp1_resumo_expandido_29635.pdf)
 
 ---
 
